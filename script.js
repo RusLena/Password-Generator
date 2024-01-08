@@ -104,6 +104,12 @@ function getPasswordOptions() {
   const includeUppercase = confirm("Include uppercase characters?");
   const includeNumeric = confirm("Include numeric characters?");
   const includeSpecial = confirm("Include special characters?");
+  
+// Ensure at least one character type is selected
+if (!(includeLowercase || includeUppercase || includeNumeric || includeSpecial)) {
+  alert("At least one character type must be selected.");
+  return null; // Return null if no character type is selected
+}
 
   // Return an object containing the selected options
   return {
