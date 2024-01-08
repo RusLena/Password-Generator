@@ -44,7 +44,7 @@ This detailed description provides an overview of the Password Generator applica
 Application Screenshot
 
 ![Password Generator Screenshot](./assets/Capture.PNG)
-Application GitHub URL: 
+Application GitHub URL: https://github.com/RusLena/Secure-Passwords-Generator.git
 ## Deployed Application
 
-[Click here to access the deployed Password Generator](https://your-deployed-url.com)
+[Click here to access the deployed Password Generator]
