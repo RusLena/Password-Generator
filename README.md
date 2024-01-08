@@ -43,7 +43,7 @@ This detailed description provides an overview of the Password Generator applica
 
 Application Screenshot
 
-![Password Generator Screenshot](./assets/screenshot.png)
+![Password Generator Screenshot](./assets/Capture.PNG)
 
 ## Deployed Application
 
